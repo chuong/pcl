@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/pcl/!svn/ver/7802/trunk/gpu/kinfu/tools
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/pcl/!svn/ver/6532/trunk/gpu/kinfu/tools/CMakeLists.txt
+END
+evaluation.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/tools/evaluation.h
+END
+kinfu_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pcl/!svn/ver/7802/trunk/gpu/kinfu/tools/kinfu_app.cpp
+END
+tsdf_volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/tools/tsdf_volume.h
+END
+tsdf_volume.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/tools/tsdf_volume.hpp
+END
+openni_capture.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/tools/openni_capture.h
+END
+capture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/tools/capture.cpp
+END
+kinfu_app_sim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pcl/!svn/ver/7793/trunk/gpu/kinfu/tools/kinfu_app_sim.cpp
+END
+record_tsdfvolume.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/tools/record_tsdfvolume.cpp
+END
+evaluation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/tools/evaluation.cpp
+END

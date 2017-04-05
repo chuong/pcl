@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/pcl/!svn/ver/7709/trunk/gpu/kinfu/src
+END
+kinfu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/pcl/!svn/ver/7709/trunk/gpu/kinfu/src/kinfu.cpp
+END
+raycaster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/src/raycaster.cpp
+END
+safe_call.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/src/safe_call.hpp
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/src/internal.h
+END
+color_volume.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/src/color_volume.cpp
+END
+tsdf_volume.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pcl/!svn/ver/6682/trunk/gpu/kinfu/src/tsdf_volume.cpp
+END
+marching_cubes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/src/marching_cubes.cpp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/pcl/!svn/ver/6682/trunk/gpu/kinfu/src/cuda
+END
+tsdf_volume.cu
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pcl/!svn/ver/4309/trunk/gpu/kinfu/src/cuda/tsdf_volume.cu
+END
+image_generator.cu
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/pcl/!svn/ver/3981/trunk/gpu/kinfu/src/cuda/image_generator.cu
+END
+marching_cubes.cu
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/pcl/!svn/ver/6084/trunk/gpu/kinfu/src/cuda/marching_cubes.cu
+END
+extract.cu
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pcl/!svn/ver/5927/trunk/gpu/kinfu/src/cuda/extract.cu
+END
+coresp.cu
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/pcl/!svn/ver/5927/trunk/gpu/kinfu/src/cuda/coresp.cu
+END
+estimate_combined.cu
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/pcl/!svn/ver/5927/trunk/gpu/kinfu/src/cuda/estimate_combined.cu
+END
+ray_caster.cu
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pcl/!svn/ver/4476/trunk/gpu/kinfu/src/cuda/ray_caster.cu
+END
+device.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/src/cuda/device.hpp
+END
+maps.cu
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/pcl/!svn/ver/3970/trunk/gpu/kinfu/src/cuda/maps.cu
+END
+utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/pcl/!svn/ver/6459/trunk/gpu/kinfu/src/cuda/utils.hpp
+END
+bilateral_pyrdown.cu
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/pcl/!svn/ver/6682/trunk/gpu/kinfu/src/cuda/bilateral_pyrdown.cu
+END
+colors.cu
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/pcl/!svn/ver/5927/trunk/gpu/kinfu/src/cuda/colors.cu
+END
+normals_eigen.cu
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pcl/!svn/ver/5927/trunk/gpu/kinfu/src/cuda/normals_eigen.cu
+END
+estimate_tranform.cu
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/pcl/!svn/ver/5927/trunk/gpu/kinfu/src/cuda/estimate_tranform.cu
+END
